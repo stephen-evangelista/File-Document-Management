@@ -1,0 +1,4502 @@
+[
+  {
+    "document_id": "DOC-0001",
+    "title": "Sample Document 0001",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0001.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0002",
+    "title": "Sample Document 0002",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0002.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0003",
+    "title": "Sample Document 0003",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0003.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0004",
+    "title": "Sample Document 0004",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0004.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0005",
+    "title": "Sample Document 0005",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0005.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0006",
+    "title": "Sample Document 0006",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0006.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0007",
+    "title": "Sample Document 0007",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0007.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0008",
+    "title": "Sample Document 0008",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0008.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0009",
+    "title": "Sample Document 0009",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0009.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0010",
+    "title": "Sample Document 0010",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0010.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0011",
+    "title": "Sample Document 0011",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0011.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0012",
+    "title": "Sample Document 0012",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0012.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0013",
+    "title": "Sample Document 0013",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0013.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0014",
+    "title": "Sample Document 0014",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0014.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0015",
+    "title": "Sample Document 0015",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0015.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0016",
+    "title": "Sample Document 0016",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0016.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0017",
+    "title": "Sample Document 0017",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0017.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0018",
+    "title": "Sample Document 0018",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0018.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0019",
+    "title": "Sample Document 0019",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0019.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0020",
+    "title": "Sample Document 0020",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0020.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0021",
+    "title": "Sample Document 0021",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0021.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0022",
+    "title": "Sample Document 0022",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0022.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0023",
+    "title": "Sample Document 0023",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0023.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0024",
+    "title": "Sample Document 0024",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0024.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0025",
+    "title": "Sample Document 0025",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0025.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0026",
+    "title": "Sample Document 0026",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0026.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0027",
+    "title": "Sample Document 0027",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0027.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0028",
+    "title": "Sample Document 0028",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0028.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0029",
+    "title": "Sample Document 0029",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0029.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0030",
+    "title": "Sample Document 0030",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0030.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0031",
+    "title": "Sample Document 0031",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0031.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0032",
+    "title": "Sample Document 0032",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0032.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0033",
+    "title": "Sample Document 0033",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0033.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0034",
+    "title": "Sample Document 0034",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0034.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0035",
+    "title": "Sample Document 0035",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0035.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0036",
+    "title": "Sample Document 0036",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0036.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0037",
+    "title": "Sample Document 0037",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0037.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0038",
+    "title": "Sample Document 0038",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0038.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0039",
+    "title": "Sample Document 0039",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0039.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0040",
+    "title": "Sample Document 0040",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0040.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0041",
+    "title": "Sample Document 0041",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0041.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0042",
+    "title": "Sample Document 0042",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0042.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0043",
+    "title": "Sample Document 0043",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0043.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0044",
+    "title": "Sample Document 0044",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0044.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0045",
+    "title": "Sample Document 0045",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0045.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0046",
+    "title": "Sample Document 0046",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0046.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0047",
+    "title": "Sample Document 0047",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0047.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0048",
+    "title": "Sample Document 0048",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0048.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0049",
+    "title": "Sample Document 0049",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0049.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0050",
+    "title": "Sample Document 0050",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0050.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0051",
+    "title": "Sample Document 0051",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0051.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0052",
+    "title": "Sample Document 0052",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0052.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0053",
+    "title": "Sample Document 0053",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0053.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0054",
+    "title": "Sample Document 0054",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0054.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0055",
+    "title": "Sample Document 0055",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0055.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0056",
+    "title": "Sample Document 0056",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0056.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0057",
+    "title": "Sample Document 0057",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0057.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0058",
+    "title": "Sample Document 0058",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0058.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0059",
+    "title": "Sample Document 0059",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0059.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0060",
+    "title": "Sample Document 0060",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0060.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0061",
+    "title": "Sample Document 0061",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0061.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0062",
+    "title": "Sample Document 0062",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0062.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0063",
+    "title": "Sample Document 0063",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0063.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0064",
+    "title": "Sample Document 0064",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0064.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0065",
+    "title": "Sample Document 0065",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0065.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0066",
+    "title": "Sample Document 0066",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0066.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0067",
+    "title": "Sample Document 0067",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0067.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0068",
+    "title": "Sample Document 0068",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0068.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0069",
+    "title": "Sample Document 0069",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0069.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0070",
+    "title": "Sample Document 0070",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0070.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0071",
+    "title": "Sample Document 0071",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0071.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0072",
+    "title": "Sample Document 0072",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0072.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0073",
+    "title": "Sample Document 0073",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0073.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0074",
+    "title": "Sample Document 0074",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0074.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0075",
+    "title": "Sample Document 0075",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0075.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0076",
+    "title": "Sample Document 0076",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0076.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0077",
+    "title": "Sample Document 0077",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0077.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0078",
+    "title": "Sample Document 0078",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0078.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0079",
+    "title": "Sample Document 0079",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0079.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0080",
+    "title": "Sample Document 0080",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0080.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0081",
+    "title": "Sample Document 0081",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0081.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0082",
+    "title": "Sample Document 0082",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0082.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0083",
+    "title": "Sample Document 0083",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0083.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0084",
+    "title": "Sample Document 0084",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0084.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0085",
+    "title": "Sample Document 0085",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0085.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0086",
+    "title": "Sample Document 0086",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0086.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0087",
+    "title": "Sample Document 0087",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0087.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0088",
+    "title": "Sample Document 0088",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0088.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0089",
+    "title": "Sample Document 0089",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0089.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0090",
+    "title": "Sample Document 0090",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0090.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0091",
+    "title": "Sample Document 0091",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0091.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0092",
+    "title": "Sample Document 0092",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0092.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0093",
+    "title": "Sample Document 0093",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0093.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0094",
+    "title": "Sample Document 0094",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0094.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0095",
+    "title": "Sample Document 0095",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0095.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0096",
+    "title": "Sample Document 0096",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0096.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0097",
+    "title": "Sample Document 0097",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0097.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0098",
+    "title": "Sample Document 0098",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0098.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0099",
+    "title": "Sample Document 0099",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0099.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0100",
+    "title": "Sample Document 0100",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0100.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0101",
+    "title": "Sample Document 0101",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0101.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0102",
+    "title": "Sample Document 0102",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0102.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0103",
+    "title": "Sample Document 0103",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0103.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0104",
+    "title": "Sample Document 0104",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0104.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0105",
+    "title": "Sample Document 0105",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0105.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0106",
+    "title": "Sample Document 0106",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0106.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0107",
+    "title": "Sample Document 0107",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0107.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0108",
+    "title": "Sample Document 0108",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0108.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0109",
+    "title": "Sample Document 0109",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0109.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0110",
+    "title": "Sample Document 0110",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0110.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0111",
+    "title": "Sample Document 0111",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0111.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0112",
+    "title": "Sample Document 0112",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0112.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0113",
+    "title": "Sample Document 0113",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0113.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0114",
+    "title": "Sample Document 0114",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0114.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0115",
+    "title": "Sample Document 0115",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0115.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0116",
+    "title": "Sample Document 0116",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0116.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0117",
+    "title": "Sample Document 0117",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0117.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0118",
+    "title": "Sample Document 0118",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0118.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0119",
+    "title": "Sample Document 0119",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0119.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0120",
+    "title": "Sample Document 0120",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0120.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0121",
+    "title": "Sample Document 0121",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0121.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0122",
+    "title": "Sample Document 0122",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0122.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0123",
+    "title": "Sample Document 0123",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0123.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0124",
+    "title": "Sample Document 0124",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0124.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0125",
+    "title": "Sample Document 0125",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0125.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0126",
+    "title": "Sample Document 0126",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0126.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0127",
+    "title": "Sample Document 0127",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0127.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0128",
+    "title": "Sample Document 0128",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0128.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0129",
+    "title": "Sample Document 0129",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0129.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0130",
+    "title": "Sample Document 0130",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0130.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0131",
+    "title": "Sample Document 0131",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0131.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0132",
+    "title": "Sample Document 0132",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0132.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0133",
+    "title": "Sample Document 0133",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0133.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0134",
+    "title": "Sample Document 0134",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0134.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0135",
+    "title": "Sample Document 0135",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0135.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0136",
+    "title": "Sample Document 0136",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0136.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0137",
+    "title": "Sample Document 0137",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0137.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0138",
+    "title": "Sample Document 0138",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0138.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0139",
+    "title": "Sample Document 0139",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0139.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0140",
+    "title": "Sample Document 0140",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0140.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0141",
+    "title": "Sample Document 0141",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0141.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0142",
+    "title": "Sample Document 0142",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0142.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0143",
+    "title": "Sample Document 0143",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0143.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0144",
+    "title": "Sample Document 0144",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0144.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0145",
+    "title": "Sample Document 0145",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0145.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0146",
+    "title": "Sample Document 0146",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0146.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0147",
+    "title": "Sample Document 0147",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0147.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0148",
+    "title": "Sample Document 0148",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0148.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0149",
+    "title": "Sample Document 0149",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0149.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0150",
+    "title": "Sample Document 0150",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0150.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0151",
+    "title": "Sample Document 0151",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0151.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0152",
+    "title": "Sample Document 0152",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0152.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0153",
+    "title": "Sample Document 0153",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0153.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0154",
+    "title": "Sample Document 0154",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0154.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0155",
+    "title": "Sample Document 0155",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0155.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0156",
+    "title": "Sample Document 0156",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0156.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0157",
+    "title": "Sample Document 0157",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0157.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0158",
+    "title": "Sample Document 0158",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0158.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0159",
+    "title": "Sample Document 0159",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0159.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0160",
+    "title": "Sample Document 0160",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0160.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0161",
+    "title": "Sample Document 0161",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0161.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0162",
+    "title": "Sample Document 0162",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0162.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0163",
+    "title": "Sample Document 0163",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0163.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0164",
+    "title": "Sample Document 0164",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0164.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0165",
+    "title": "Sample Document 0165",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0165.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0166",
+    "title": "Sample Document 0166",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0166.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0167",
+    "title": "Sample Document 0167",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0167.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0168",
+    "title": "Sample Document 0168",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0168.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0169",
+    "title": "Sample Document 0169",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0169.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0170",
+    "title": "Sample Document 0170",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0170.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0171",
+    "title": "Sample Document 0171",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0171.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0172",
+    "title": "Sample Document 0172",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0172.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0173",
+    "title": "Sample Document 0173",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0173.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0174",
+    "title": "Sample Document 0174",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0174.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0175",
+    "title": "Sample Document 0175",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0175.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0176",
+    "title": "Sample Document 0176",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0176.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0177",
+    "title": "Sample Document 0177",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0177.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0178",
+    "title": "Sample Document 0178",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0178.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0179",
+    "title": "Sample Document 0179",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0179.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0180",
+    "title": "Sample Document 0180",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0180.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0181",
+    "title": "Sample Document 0181",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0181.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0182",
+    "title": "Sample Document 0182",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0182.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0183",
+    "title": "Sample Document 0183",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0183.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0184",
+    "title": "Sample Document 0184",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0184.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0185",
+    "title": "Sample Document 0185",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0185.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0186",
+    "title": "Sample Document 0186",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0186.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0187",
+    "title": "Sample Document 0187",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0187.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0188",
+    "title": "Sample Document 0188",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0188.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0189",
+    "title": "Sample Document 0189",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0189.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0190",
+    "title": "Sample Document 0190",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0190.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0191",
+    "title": "Sample Document 0191",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0191.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0192",
+    "title": "Sample Document 0192",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0192.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0193",
+    "title": "Sample Document 0193",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0193.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0194",
+    "title": "Sample Document 0194",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0194.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0195",
+    "title": "Sample Document 0195",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0195.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0196",
+    "title": "Sample Document 0196",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0196.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0197",
+    "title": "Sample Document 0197",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0197.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0198",
+    "title": "Sample Document 0198",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0198.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0199",
+    "title": "Sample Document 0199",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0199.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0200",
+    "title": "Sample Document 0200",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0200.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0201",
+    "title": "Sample Document 0201",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0201.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0202",
+    "title": "Sample Document 0202",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0202.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0203",
+    "title": "Sample Document 0203",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0203.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0204",
+    "title": "Sample Document 0204",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0204.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0205",
+    "title": "Sample Document 0205",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0205.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0206",
+    "title": "Sample Document 0206",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0206.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0207",
+    "title": "Sample Document 0207",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0207.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0208",
+    "title": "Sample Document 0208",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0208.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0209",
+    "title": "Sample Document 0209",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0209.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0210",
+    "title": "Sample Document 0210",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0210.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0211",
+    "title": "Sample Document 0211",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0211.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0212",
+    "title": "Sample Document 0212",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0212.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0213",
+    "title": "Sample Document 0213",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0213.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0214",
+    "title": "Sample Document 0214",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0214.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0215",
+    "title": "Sample Document 0215",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0215.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0216",
+    "title": "Sample Document 0216",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0216.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0217",
+    "title": "Sample Document 0217",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0217.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0218",
+    "title": "Sample Document 0218",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0218.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0219",
+    "title": "Sample Document 0219",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0219.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0220",
+    "title": "Sample Document 0220",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0220.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0221",
+    "title": "Sample Document 0221",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0221.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0222",
+    "title": "Sample Document 0222",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0222.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0223",
+    "title": "Sample Document 0223",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0223.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0224",
+    "title": "Sample Document 0224",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0224.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0225",
+    "title": "Sample Document 0225",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0225.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0226",
+    "title": "Sample Document 0226",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0226.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0227",
+    "title": "Sample Document 0227",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0227.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0228",
+    "title": "Sample Document 0228",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0228.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0229",
+    "title": "Sample Document 0229",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0229.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0230",
+    "title": "Sample Document 0230",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0230.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0231",
+    "title": "Sample Document 0231",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0231.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0232",
+    "title": "Sample Document 0232",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0232.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0233",
+    "title": "Sample Document 0233",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0233.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0234",
+    "title": "Sample Document 0234",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0234.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0235",
+    "title": "Sample Document 0235",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0235.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0236",
+    "title": "Sample Document 0236",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0236.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0237",
+    "title": "Sample Document 0237",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0237.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0238",
+    "title": "Sample Document 0238",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0238.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0239",
+    "title": "Sample Document 0239",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0239.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0240",
+    "title": "Sample Document 0240",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0240.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0241",
+    "title": "Sample Document 0241",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0241.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0242",
+    "title": "Sample Document 0242",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0242.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0243",
+    "title": "Sample Document 0243",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0243.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0244",
+    "title": "Sample Document 0244",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0244.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0245",
+    "title": "Sample Document 0245",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0245.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0246",
+    "title": "Sample Document 0246",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0246.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0247",
+    "title": "Sample Document 0247",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0247.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0248",
+    "title": "Sample Document 0248",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0248.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0249",
+    "title": "Sample Document 0249",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0249.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0250",
+    "title": "Sample Document 0250",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0250.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0251",
+    "title": "Sample Document 0251",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0251.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0252",
+    "title": "Sample Document 0252",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0252.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0253",
+    "title": "Sample Document 0253",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0253.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0254",
+    "title": "Sample Document 0254",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0254.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0255",
+    "title": "Sample Document 0255",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0255.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0256",
+    "title": "Sample Document 0256",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0256.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0257",
+    "title": "Sample Document 0257",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0257.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0258",
+    "title": "Sample Document 0258",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0258.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0259",
+    "title": "Sample Document 0259",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0259.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0260",
+    "title": "Sample Document 0260",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0260.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0261",
+    "title": "Sample Document 0261",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0261.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0262",
+    "title": "Sample Document 0262",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0262.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0263",
+    "title": "Sample Document 0263",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0263.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0264",
+    "title": "Sample Document 0264",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0264.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0265",
+    "title": "Sample Document 0265",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0265.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0266",
+    "title": "Sample Document 0266",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0266.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0267",
+    "title": "Sample Document 0267",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0267.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0268",
+    "title": "Sample Document 0268",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0268.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0269",
+    "title": "Sample Document 0269",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0269.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0270",
+    "title": "Sample Document 0270",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0270.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0271",
+    "title": "Sample Document 0271",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0271.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0272",
+    "title": "Sample Document 0272",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0272.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0273",
+    "title": "Sample Document 0273",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0273.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0274",
+    "title": "Sample Document 0274",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0274.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0275",
+    "title": "Sample Document 0275",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0275.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0276",
+    "title": "Sample Document 0276",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0276.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0277",
+    "title": "Sample Document 0277",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0277.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0278",
+    "title": "Sample Document 0278",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0278.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0279",
+    "title": "Sample Document 0279",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0279.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0280",
+    "title": "Sample Document 0280",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0280.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0281",
+    "title": "Sample Document 0281",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0281.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0282",
+    "title": "Sample Document 0282",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0282.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0283",
+    "title": "Sample Document 0283",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0283.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0284",
+    "title": "Sample Document 0284",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0284.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0285",
+    "title": "Sample Document 0285",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0285.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0286",
+    "title": "Sample Document 0286",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0286.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0287",
+    "title": "Sample Document 0287",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0287.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0288",
+    "title": "Sample Document 0288",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0288.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0289",
+    "title": "Sample Document 0289",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0289.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0290",
+    "title": "Sample Document 0290",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0290.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0291",
+    "title": "Sample Document 0291",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0291.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0292",
+    "title": "Sample Document 0292",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0292.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0293",
+    "title": "Sample Document 0293",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0293.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0294",
+    "title": "Sample Document 0294",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0294.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0295",
+    "title": "Sample Document 0295",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0295.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0296",
+    "title": "Sample Document 0296",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0296.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0297",
+    "title": "Sample Document 0297",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0297.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0298",
+    "title": "Sample Document 0298",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0298.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0299",
+    "title": "Sample Document 0299",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0299.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0300",
+    "title": "Sample Document 0300",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0300.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0301",
+    "title": "Sample Document 0301",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0301.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0302",
+    "title": "Sample Document 0302",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0302.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0303",
+    "title": "Sample Document 0303",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0303.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0304",
+    "title": "Sample Document 0304",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0304.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0305",
+    "title": "Sample Document 0305",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0305.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0306",
+    "title": "Sample Document 0306",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0306.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0307",
+    "title": "Sample Document 0307",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0307.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0308",
+    "title": "Sample Document 0308",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0308.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0309",
+    "title": "Sample Document 0309",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0309.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0310",
+    "title": "Sample Document 0310",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0310.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0311",
+    "title": "Sample Document 0311",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0311.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0312",
+    "title": "Sample Document 0312",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0312.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0313",
+    "title": "Sample Document 0313",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0313.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0314",
+    "title": "Sample Document 0314",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0314.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0315",
+    "title": "Sample Document 0315",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0315.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0316",
+    "title": "Sample Document 0316",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0316.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0317",
+    "title": "Sample Document 0317",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0317.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0318",
+    "title": "Sample Document 0318",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0318.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0319",
+    "title": "Sample Document 0319",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0319.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0320",
+    "title": "Sample Document 0320",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0320.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0321",
+    "title": "Sample Document 0321",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0321.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0322",
+    "title": "Sample Document 0322",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0322.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0323",
+    "title": "Sample Document 0323",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0323.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0324",
+    "title": "Sample Document 0324",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0324.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0325",
+    "title": "Sample Document 0325",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0325.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0326",
+    "title": "Sample Document 0326",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0326.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0327",
+    "title": "Sample Document 0327",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0327.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0328",
+    "title": "Sample Document 0328",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0328.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0329",
+    "title": "Sample Document 0329",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0329.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0330",
+    "title": "Sample Document 0330",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0330.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0331",
+    "title": "Sample Document 0331",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0331.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0332",
+    "title": "Sample Document 0332",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0332.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0333",
+    "title": "Sample Document 0333",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0333.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0334",
+    "title": "Sample Document 0334",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0334.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0335",
+    "title": "Sample Document 0335",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0335.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0336",
+    "title": "Sample Document 0336",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0336.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0337",
+    "title": "Sample Document 0337",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0337.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0338",
+    "title": "Sample Document 0338",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0338.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0339",
+    "title": "Sample Document 0339",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0339.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0340",
+    "title": "Sample Document 0340",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0340.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0341",
+    "title": "Sample Document 0341",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0341.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0342",
+    "title": "Sample Document 0342",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0342.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0343",
+    "title": "Sample Document 0343",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0343.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0344",
+    "title": "Sample Document 0344",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0344.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0345",
+    "title": "Sample Document 0345",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0345.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0346",
+    "title": "Sample Document 0346",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0346.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0347",
+    "title": "Sample Document 0347",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0347.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0348",
+    "title": "Sample Document 0348",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0348.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0349",
+    "title": "Sample Document 0349",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0349.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0350",
+    "title": "Sample Document 0350",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0350.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0351",
+    "title": "Sample Document 0351",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0351.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0352",
+    "title": "Sample Document 0352",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0352.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0353",
+    "title": "Sample Document 0353",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0353.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0354",
+    "title": "Sample Document 0354",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0354.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0355",
+    "title": "Sample Document 0355",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0355.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0356",
+    "title": "Sample Document 0356",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0356.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0357",
+    "title": "Sample Document 0357",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0357.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0358",
+    "title": "Sample Document 0358",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0358.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0359",
+    "title": "Sample Document 0359",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0359.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0360",
+    "title": "Sample Document 0360",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0360.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0361",
+    "title": "Sample Document 0361",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0361.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0362",
+    "title": "Sample Document 0362",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0362.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0363",
+    "title": "Sample Document 0363",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0363.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0364",
+    "title": "Sample Document 0364",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0364.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0365",
+    "title": "Sample Document 0365",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0365.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0366",
+    "title": "Sample Document 0366",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0366.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0367",
+    "title": "Sample Document 0367",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0367.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0368",
+    "title": "Sample Document 0368",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0368.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0369",
+    "title": "Sample Document 0369",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0369.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0370",
+    "title": "Sample Document 0370",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0370.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0371",
+    "title": "Sample Document 0371",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0371.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0372",
+    "title": "Sample Document 0372",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0372.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0373",
+    "title": "Sample Document 0373",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0373.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0374",
+    "title": "Sample Document 0374",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0374.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0375",
+    "title": "Sample Document 0375",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0375.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0376",
+    "title": "Sample Document 0376",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0376.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0377",
+    "title": "Sample Document 0377",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0377.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0378",
+    "title": "Sample Document 0378",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0378.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0379",
+    "title": "Sample Document 0379",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0379.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0380",
+    "title": "Sample Document 0380",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0380.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0381",
+    "title": "Sample Document 0381",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0381.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0382",
+    "title": "Sample Document 0382",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0382.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0383",
+    "title": "Sample Document 0383",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0383.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0384",
+    "title": "Sample Document 0384",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0384.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0385",
+    "title": "Sample Document 0385",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0385.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0386",
+    "title": "Sample Document 0386",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0386.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0387",
+    "title": "Sample Document 0387",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0387.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0388",
+    "title": "Sample Document 0388",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0388.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0389",
+    "title": "Sample Document 0389",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0389.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0390",
+    "title": "Sample Document 0390",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0390.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0391",
+    "title": "Sample Document 0391",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0391.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0392",
+    "title": "Sample Document 0392",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0392.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0393",
+    "title": "Sample Document 0393",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0393.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0394",
+    "title": "Sample Document 0394",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0394.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0395",
+    "title": "Sample Document 0395",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0395.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0396",
+    "title": "Sample Document 0396",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0396.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0397",
+    "title": "Sample Document 0397",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0397.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0398",
+    "title": "Sample Document 0398",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0398.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0399",
+    "title": "Sample Document 0399",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0399.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0400",
+    "title": "Sample Document 0400",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0400.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0401",
+    "title": "Sample Document 0401",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0401.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0402",
+    "title": "Sample Document 0402",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0402.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0403",
+    "title": "Sample Document 0403",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0403.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0404",
+    "title": "Sample Document 0404",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0404.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0405",
+    "title": "Sample Document 0405",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0405.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0406",
+    "title": "Sample Document 0406",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0406.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0407",
+    "title": "Sample Document 0407",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0407.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0408",
+    "title": "Sample Document 0408",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0408.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0409",
+    "title": "Sample Document 0409",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0409.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0410",
+    "title": "Sample Document 0410",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0410.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0411",
+    "title": "Sample Document 0411",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0411.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0412",
+    "title": "Sample Document 0412",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0412.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0413",
+    "title": "Sample Document 0413",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0413.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0414",
+    "title": "Sample Document 0414",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0414.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0415",
+    "title": "Sample Document 0415",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0415.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0416",
+    "title": "Sample Document 0416",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0416.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0417",
+    "title": "Sample Document 0417",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0417.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0418",
+    "title": "Sample Document 0418",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0418.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0419",
+    "title": "Sample Document 0419",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0419.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0420",
+    "title": "Sample Document 0420",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0420.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0421",
+    "title": "Sample Document 0421",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0421.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0422",
+    "title": "Sample Document 0422",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0422.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0423",
+    "title": "Sample Document 0423",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0423.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0424",
+    "title": "Sample Document 0424",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0424.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0425",
+    "title": "Sample Document 0425",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0425.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0426",
+    "title": "Sample Document 0426",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0426.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0427",
+    "title": "Sample Document 0427",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0427.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0428",
+    "title": "Sample Document 0428",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0428.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0429",
+    "title": "Sample Document 0429",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0429.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0430",
+    "title": "Sample Document 0430",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0430.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0431",
+    "title": "Sample Document 0431",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0431.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0432",
+    "title": "Sample Document 0432",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0432.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0433",
+    "title": "Sample Document 0433",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0433.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0434",
+    "title": "Sample Document 0434",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0434.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0435",
+    "title": "Sample Document 0435",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0435.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0436",
+    "title": "Sample Document 0436",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0436.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0437",
+    "title": "Sample Document 0437",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0437.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0438",
+    "title": "Sample Document 0438",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0438.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0439",
+    "title": "Sample Document 0439",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0439.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0440",
+    "title": "Sample Document 0440",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0440.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0441",
+    "title": "Sample Document 0441",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0441.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0442",
+    "title": "Sample Document 0442",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0442.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0443",
+    "title": "Sample Document 0443",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0443.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0444",
+    "title": "Sample Document 0444",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0444.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0445",
+    "title": "Sample Document 0445",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0445.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0446",
+    "title": "Sample Document 0446",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0446.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0447",
+    "title": "Sample Document 0447",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0447.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0448",
+    "title": "Sample Document 0448",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0448.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0449",
+    "title": "Sample Document 0449",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0449.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0450",
+    "title": "Sample Document 0450",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0450.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0451",
+    "title": "Sample Document 0451",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0451.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0452",
+    "title": "Sample Document 0452",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0452.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0453",
+    "title": "Sample Document 0453",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0453.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0454",
+    "title": "Sample Document 0454",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0454.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0455",
+    "title": "Sample Document 0455",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0455.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0456",
+    "title": "Sample Document 0456",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0456.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0457",
+    "title": "Sample Document 0457",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0457.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0458",
+    "title": "Sample Document 0458",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0458.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0459",
+    "title": "Sample Document 0459",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0459.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0460",
+    "title": "Sample Document 0460",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0460.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0461",
+    "title": "Sample Document 0461",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0461.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0462",
+    "title": "Sample Document 0462",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0462.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0463",
+    "title": "Sample Document 0463",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0463.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0464",
+    "title": "Sample Document 0464",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0464.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0465",
+    "title": "Sample Document 0465",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0465.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0466",
+    "title": "Sample Document 0466",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0466.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0467",
+    "title": "Sample Document 0467",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0467.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0468",
+    "title": "Sample Document 0468",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0468.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0469",
+    "title": "Sample Document 0469",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0469.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0470",
+    "title": "Sample Document 0470",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0470.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0471",
+    "title": "Sample Document 0471",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0471.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0472",
+    "title": "Sample Document 0472",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0472.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0473",
+    "title": "Sample Document 0473",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0473.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0474",
+    "title": "Sample Document 0474",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0474.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0475",
+    "title": "Sample Document 0475",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0475.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0476",
+    "title": "Sample Document 0476",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0476.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0477",
+    "title": "Sample Document 0477",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0477.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0478",
+    "title": "Sample Document 0478",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0478.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0479",
+    "title": "Sample Document 0479",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0479.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0480",
+    "title": "Sample Document 0480",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0480.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0481",
+    "title": "Sample Document 0481",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0481.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0482",
+    "title": "Sample Document 0482",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0482.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0483",
+    "title": "Sample Document 0483",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0483.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0484",
+    "title": "Sample Document 0484",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0484.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0485",
+    "title": "Sample Document 0485",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0485.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0486",
+    "title": "Sample Document 0486",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0486.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0487",
+    "title": "Sample Document 0487",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0487.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0488",
+    "title": "Sample Document 0488",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0488.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0489",
+    "title": "Sample Document 0489",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0489.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0490",
+    "title": "Sample Document 0490",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0490.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0491",
+    "title": "Sample Document 0491",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0491.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0492",
+    "title": "Sample Document 0492",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0492.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0493",
+    "title": "Sample Document 0493",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0493.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0494",
+    "title": "Sample Document 0494",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0494.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0495",
+    "title": "Sample Document 0495",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0495.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0496",
+    "title": "Sample Document 0496",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0496.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0497",
+    "title": "Sample Document 0497",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0497.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0498",
+    "title": "Sample Document 0498",
+    "folder_path": "Reference/Reading",
+    "file_type": "txt",
+    "version": 1,
+    "description": "Dummy document record 0498.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0499",
+    "title": "Sample Document 0499",
+    "folder_path": "DSA/Assignments",
+    "file_type": "pdf",
+    "version": 1,
+    "description": "Dummy document record 0499.",
+    "is_archived": false
+  },
+  {
+    "document_id": "DOC-0500",
+    "title": "Sample Document 0500",
+    "folder_path": "DSA/Projects",
+    "file_type": "docx",
+    "version": 1,
+    "description": "Dummy document record 0500.",
+    "is_archived": false
+  }
+]
